@@ -48,7 +48,6 @@ Project developed using JavaScript and the Jest framework.
 - Praticar meus estudos com Higher order functions (HOFs), mais especificamente: find, map, forEach, some, every, reduce etc;
 - Spread operator, rest parameters e object destructuring;
 - Array destructuring, Default destructuring, Object property shorthand e default parameter.
-
 <br/>
 </details>
 
@@ -58,6 +57,5 @@ Project developed using JavaScript and the Jest framework.
 - Practice my studies with Higher order functions (HOFs), more specifically: find, map, forEach, some, every, reduce etc;
 - Spread operator, rest parameters and object destructuring;
 - Array destructuring, Default destructuring, Object property shorthand and default parameter.
-
 <br/>
 </details>
