@@ -40,7 +40,7 @@ Project developed using JavaScript and the Jest framework.
 </details>
 
 
-## 🎯 Objetivos / Goals
+## 🎯 Aprendizados / Learnings
 
 <details>
   <summary markdown="span"><strong>:brazil: Português</strong></summary><br />
